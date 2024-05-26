@@ -1,4 +1,3 @@
-# django-react-todo_app
 # Django-React Notes App
 
 ## Project Setup
